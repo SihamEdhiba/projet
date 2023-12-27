@@ -32,7 +32,8 @@ header h1 {
 }
 .task-list{
   max-width: 640px;
-  margin: 20px auto;
+  /* margin: 20px auto; */
+  margin: 0px;
 }
 .task{
   padding:6px 20px;
